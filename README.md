@@ -23,14 +23,14 @@ Enterprise.
 ## Licensed Editions
 This Open Edition of the GNAF Locator is provided as a community service. Licensed editions of the GNAF Locator, based on the latest available GNAF dataset, are available from Mosaic Geospatial. They include free quarterly updates and technical support. See the [Mosaic Geospatial website](https://www.mosaicgeospatial.com) for more information.
 ## Related Products and Datasets
-The source GNAF address dataset is also available in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use:  
+The source GNAF address dataset is also available in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use:<br/>
 [https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile)
 ## Support
-Community support for the Open Edition of the GNAF Locator is provided at the Mosaic Geospatial GitHub site:  
+Community support for the Open Edition of the GNAF Locator is provided at the Mosaic Geospatial GitHub site:<br/>
 [https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis](https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis)
 ## Attribution
 Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc)
 ## Copyright and Licensing
-This product is Copyright © 2020, Mosaic Geospatial.  
-Use of this product is subject to the Open Geo-coded National Address File (G-NAF) End User Licence Agreement (EULA). A copy of this license has been provided with the product.  
+This product is Copyright © 2020, Mosaic Geospatial.<br/>
+Use of this product is subject to the Open Geo-coded National Address File (G-NAF) End User Licence Agreement (EULA). A copy of this license has been provided with the product.<br/>
 The EULA terms are based on the Creative Commons Attribution 4.0 International license (CC BY 4.0). However, an important restriction relating to the use of the open G-NAF for the sending of mail has been added. The open G-NAF data must not be used for the generation of an address or the compilation of an address for the sending of mail unless the user has verified that each address to be used for the sending of mail is capable of receiving mail by reference to a secondary source of information. A fact sheet with more information about the usage restriction has been provided with the product.
